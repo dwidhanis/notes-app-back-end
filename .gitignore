@@ -1,0 +1,4 @@
+# gitignore untuk menyaring file yg di upload
+
+node_modules
+notes-api-webserver.pem
